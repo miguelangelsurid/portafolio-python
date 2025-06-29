@@ -60,4 +60,4 @@ Clean a real image from multiple types of noise that hindered our ability to obs
 
 Miguel Ángel Susillo Ridao
 
-Linkedin: 
+Linkedin: www.linkedin.com/in/miguelangelsurid
