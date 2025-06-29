@@ -46,7 +46,7 @@ python3 -m venv envAstro
 - Activate it:
 source envAstro/bin/activate
 
-- Install requirements
+- Install requirements inside environment
   
 - Download the data
 
